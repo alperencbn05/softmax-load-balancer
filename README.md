@@ -1,4 +1,3 @@
-# softmax-load-balancer
 # Client-Side Load Balancer with Softmax Action Selection
 
 ## Proje Hakkında
