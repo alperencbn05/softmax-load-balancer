@@ -30,6 +30,6 @@ Projeyi çalıştırmak için bilgisayarınızda Python yüklü olmalıdır.
 3. Aşağıdaki komutu çalıştırarak simülasyonu başlatın:
    ```bash
    python main.py
-Terminal ekranında 1000 istek sonucunda ajanın yük dağılımını nasıl optimize ettiğini görebilirsiniz.
+4. Terminal ekranında 1000 istek sonucunda ajanın yük dağılımını nasıl optimize ettiğini görebilirsiniz.
 
 
