@@ -29,7 +29,7 @@ Projeyi çalıştırmak için bilgisayarınızda Python yüklü olmalıdır.
 2. Terminal (veya komut satırı) üzerinden projenin bulunduğu dizine gidin.
 3. Aşağıdaki komutu çalıştırarak simülasyonu başlatın:
    ```bash
-4-  python main.py
+   python main.py
 Terminal ekranında 1000 istek sonucunda ajanın yük dağılımını nasıl optimize ettiğini görebilirsiniz.
 
 
